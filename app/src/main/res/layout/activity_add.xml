@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--content wrapper-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <!-- enter title add   -->
+    <EditText
+        android:id="@+id/enTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Title"
+        android:textStyle="bold"
+        android:maxLength="50"
+        android:ems="10"
+        android:padding="10dp"
+        android:inputType="text"
+        android:background="@color/transparent" />
+    <!-- End Enter title add   -->
+
+    <!-- enter Description add   -->
+    <EditText
+        android:id="@+id/enDes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Description"
+        android:textStyle="bold"
+        android:layout_below="@id/enTitle"
+        android:maxLength="50"
+        android:ems="10"
+        android:padding="10dp"
+        android:inputType="textMultiLine"
+        android:background="@color/transparent" />
+    <!-- End Enter Description add   -->
+
+    <!-- Button Save  -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@id/enDes"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/btn_bg"
+        android:onClick="btnAdd"
+        android:text="Simpan !"
+        android:textColor="@color/white" />
+    <!-- End Button Save   -->
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/drawable/btn_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/drawable/ic_baseline_note_add_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/layout/activity_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/layout/activity_splash.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/layout/row_listen_custom.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/oziez/AndroidStudioProjects/DoList/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
